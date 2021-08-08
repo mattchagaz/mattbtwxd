@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="matt-gif" src="https://media.discordapp.net/attachments/754078684973105234/873795515618324500/gif-150.gif?width=135&height=76">
+  <img align="right" alt="matt-gif" src="https://media.discordapp.net/attachments/754078684973105234/873795773962285076/gif-170.gif?width=153&height=86">
 </div>
 
  ##
