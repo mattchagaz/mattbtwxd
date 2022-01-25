@@ -22,6 +22,5 @@
  <a href="https://steamcommunity.com/profiles/76561198841964464/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   <a href = "https://open.spotify.com/user/qv4okq3p0uker78flpivsv5nj?si=2bc6b7f610574991"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/mattbtwxd/mattbtwxd/blob/output/github-contribution-grid-snake.svg)
   
 </div>
