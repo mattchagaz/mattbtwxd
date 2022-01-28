@@ -4,7 +4,7 @@
   <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/hero-banner.png" alt="Profile Picture">
 </div>
 
-<h3 align="center"> Olá, sou Jonathan Ferraz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+<h3 align="center"> Olá, sou Matt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 <hr>
 
@@ -32,9 +32,7 @@
 
 ## Sobre mim
 
-Sempre gostei de usar o computador, comecei aos 9 anos e desde então sigo nesse caminho que hoje em dia é minha paixão.
-
-Em 2018 comecei a programar, fiz vários cursos de desenvolvimento web e adorei.
+Tentaram me derrubar mas esqueceram que barbie butterfly voa rsrrrr
 
 </a>
 
