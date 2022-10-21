@@ -17,9 +17,8 @@
  
 <div> 
   <a href="https://api.whatsapp.com/send?phone=5551993473974" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/kkkkkkjkkjjkj" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- <a href="https://steamcommunity.com/profiles/76561198841964464/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  <a href = "https://open.spotify.com/user/qv4okq3p0uker78flpivsv5nj?si=2bc6b7f610574991"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.linkedin.com/in/matheusferrazchagas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
   
   
 </div>
