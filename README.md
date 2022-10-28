@@ -23,7 +23,7 @@
 
 Sempre gostei de usar o computador, comecei a usar desde cedo e desde então sigo nesse caminho que hoje em dia é algo que uso constantemente no meu dia a dia.
 
-Na metade de 2021 comecei comecei a me dedicar e começar a programar, fiz vários cursos de desenvolvimento web e adorei.
+Na metade de 2021 comecei a me dedicar e começar a programar, fiz vários cursos de desenvolvimento web e adorei.
 
 </a>
 
