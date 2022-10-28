@@ -1,8 +1,5 @@
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
 
-<div align="center">
-  <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/hero-banner.png" alt="Profile Picture">
-</div>
 
 <h3 align="center"> Olá, sou Matheus Chagas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
