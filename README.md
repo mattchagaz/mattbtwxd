@@ -39,6 +39,11 @@ Na metade de 2021 comecei a me dedicar e começar a programar, fiz vários curso
   <img align="left" alt="Javascript" width="22px" src="https://img.icons8.com/color/30/javascript.png"/>
 </a>
 <a href="#">
+  <img align="left" alt="ReactJS" width="22px" src="https://img.icons8.com/office/30/000000/react.png"/>
+</a>
+
+
+<a href="#">
   <img align="left" alt="NodeJs" width="22px" src="https://img.icons8.com/color/30/nodejs.png"/>
 </a>
 <a href="#">
