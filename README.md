@@ -1,7 +1,7 @@
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
 
 
-<h3 align="center"> Olá, sou Matheus Chagas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+<h3 align="center"> Hello, I'm Matheus Chagas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 <hr>
 
@@ -19,15 +19,15 @@
 
 <hr>
 
-## Sobre mim
+## About Me
 
-Sempre gostei de usar o computador, comecei a usar desde cedo e desde então sigo nesse caminho que hoje em dia é algo que uso constantemente no meu dia a dia.
+I always liked using the computer, I started using it at an early age and since then I've followed this path that nowadays is something I constantly use in my day to day life.
 
-Na metade de 2021 comecei a me dedicar e começar a programar, fiz vários cursos de desenvolvimento web e sigo fazendo até hoje.
+In mid-2021 I started dedicating myself and starting programming, I took several web development courses and I'm still doing it today.
 
 </a>
 
-## Tecnologias
+## Technologies
 
 <a href="#">
   <img align="left" alt="HTML 5" width="22px" src="https://img.icons8.com/color/30/html-5.png"/>
