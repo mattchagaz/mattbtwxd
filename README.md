@@ -68,10 +68,6 @@ In mid-2021 I started programming, took several web development courses (I still
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mattchagaz&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
-</div>
-
-<div>
   <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/gradients.png" alt="Gradients" width="100%">
 </div>
 
